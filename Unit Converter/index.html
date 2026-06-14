@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="card">
+        <h1>Unit Converter</h1>
+        <input type="number" id="temp" placeholder="Enter value">
+        <select id="conversionType">
+            <option value="mToFt">Meter to Feet </option>
+            <option value="kgToLb">Kilograms to Pounds</option>
+            <option value="cTof">Celsius to Fahrenheit</option>
+        </select>
+        <button id="convert"> Convert</button>
+        <p id="output">Converted Value: <span id="converted">0</span></p>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
