@@ -113,7 +113,6 @@ A mini social-style post app that **fetches real posts from an API**, lets you *
 ✅ Spring Boot       → E-Commerce REST API (JWT, RBAC, Orders)
 ✅ JavaScript        → 5 Mini Projects (this repo)
 🔄 React.js          → Starting now...
-⏳ Full Stack        → React + Spring Boot + AWS (CloudDeck)
 ```
 
 ---
@@ -124,7 +123,6 @@ A mini social-style post app that **fetches real posts from an API**, lets you *
 |---------|------|-------------|
 | 🎫 Railway Ticket Booking | [GitHub](https://github.com/SagarKamble45/Railway-Ticket-Booking-System-Java-Backend-Project) | Core Java CLI backend |
 | 🛒 Spring React E-Commerce | [GitHub](https://github.com/SagarKamble45/spring-react-ecommerce) | Spring Boot REST APIs |
-| ☁️ CloudDeck | *Coming Soon* | Full Stack AWS Management Platform |
 
 ---
 
